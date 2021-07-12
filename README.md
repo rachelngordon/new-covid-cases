@@ -1,5 +1,5 @@
 # new-covid-cases
-Course project creating graphs for new COVID-19 cases around the world
+Creating graphs for new COVID-19 cases around the world
 
 Plot 1: Visualize the total number of new cases by month (through and including October 2020) over time by continent.
 
